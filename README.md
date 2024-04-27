@@ -1,9 +1,9 @@
 # Pencil
+Download from the release section ------------------------------------------------------------------> 
+
 Automating LMS
 
 Download the zip file
-
-Download from the release section ------------------------------------------------------------------> 
 
 Extract the zip file
 
