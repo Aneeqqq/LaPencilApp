@@ -1,4 +1,4 @@
-# LaPencilApp
+# Pencil
 Automating LMS
 
 Download the zip file
